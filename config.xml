@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Us\Documents\NetBeansProjects\ProjectTokoGame\dist\ProjectTokoGame.jar</jar>
+  <outfile>C:\Users\Us\Documents\NetBeansProjects\ProjectTokoGame\dist\ProjectTokoGame.exe</outfile>
+  <errTitle>MY PROGRAM NEED JAVA. PLEASE INSTALL IT FIRST</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Us\Downloads\toad-2-357139.ico</icon>
+  <singleInstance>
+    <mutexName>ProjectTokoGame</mutexName>
+    <windowTitle>ProjectTokoGame</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>ProjectTokoGame</fileDescription>
+    <copyright>MUHAMADFAUZAN</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>ProjectTokoGame</productName>
+    <companyName>MUHAMADFAUZAN</companyName>
+    <internalName>ProjectTokoGame</internalName>
+    <originalFilename>ProjectTokoGame.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
